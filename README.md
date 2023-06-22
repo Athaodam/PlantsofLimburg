@@ -1,2 +1,2 @@
 # PlantsofLimburg
-Plant, Planet, Plate: Limburg
+Plant Planet Plate: Limburg
