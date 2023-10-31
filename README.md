@@ -1,4 +1,4 @@
-.ve-header "A Brew-tiful History" wc:Woman brewing beer.jpg "Ashley Thuthao Keng Dam, Ph.D." sticky
+.ve-header "A Brew-tiful History" wc:Woman_brewing_beer.jpg "Ashley Thuthao Keng Dam, Ph.D." sticky
 
 Did you know that after water and tea, beer is one of the most widely consumed drinks in the world?
 Unsurprisingly, it is also one of the world's oldest alcoholic drinks -- humans have been brewing and enjoying beer for generations and generations. 
