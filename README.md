@@ -2,6 +2,7 @@
 
 .ve-media wc:Bierbrauer.jpg right caption=Static image"
 Did you know that after water and tea, beer is one of the most widely consumed drinks in the world?
-Unsurprisingly, it is also one of the world's oldest alcoholic drinks -- humans have been brewing and enjoying beer for generations and generations. 
+Unsurprisingly, it is also one of the world's oldest alcoholic drinks -- humans have been making and enjoying beer for generations and generations. 
 
-Beers come in all sorts of different flavours and colours. From light and fruity to dark and creamy, there's a brew for every kind of human. There's much to be said about the manner in which beer is served, different places and cultures have their own hidden rules 
+Beers come in all sorts of different flavours and colours. From light and fruity to dark and creamy, there's a type of beer for every kind of human. Historically, what we know as "beer" has been made from various kinds of cereal grains such as malted barely and wheat through the calculated brewing and fermentation. At times, even oats, rice, and even corn were added to recipes in to create new taste experiences. 
+There's much to be said about the manner in which beer is served, different places and cultures have their own, sometimes even controversial rules. 
