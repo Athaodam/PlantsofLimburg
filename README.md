@@ -1,1 +1,5 @@
-.ve-header "A Brew-tiful History" wc:https://byronsmuse.files.wordpress.com/2016/10/1775-the-three-witches-from-macbeth-elizabeth-lamb-viscountess-melbourne-georgiana-duchess-of-devonshire-anne-seymour-damer-daniel-gardner.jpg?w=490 "Ashley Thuthao Keng Dam, Ph.D." sticky
+.ve-media "The Three Witches from MacBeth (Daniel Gardner, 1775)" wc: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/The_Three_Witches_from_Shakespeares_Macbeth_by_Daniel_Gardner%2C_1775.jpg/506px-The_Three_Witches_from_Shakespeares_Macbeth_by_Daniel_Gardner%2C_1775.jpg
+.ve-header "A Brew-tiful History" 
+"Ashley Thuthao Keng Dam, Ph.D." sticky
+
+.
