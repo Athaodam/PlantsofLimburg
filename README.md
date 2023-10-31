@@ -4,7 +4,8 @@
 Did you know that after water and tea, beer is one of the most widely consumed drinks in the world?
 Unsurprisingly, it is also one of the world's oldest alcoholic drinks -- humans have been making and enjoying beer for generations and generations. Current findings suggest that the first beer brewers were the ==Sumerians=={Q35355} around 4,000 BCE. This was evident from excavations of ancient ==Mesopotamia=={Q11767}, which uncovered tablets depicting villagers drinking a mysterious beverage from a bowl with straws as well as odes to ==Ninkasi=={Q1088421}, their patron goddess of beer and brewing.
 
-Hilariously, even though beer was present within the Roman era, the Romans themselves were not very found of beer. In comparison with wine, which they believed to be a "civilised" drink -- they considered beer to drink of the "rustic" and "common". 
+Hilariously, even though beer was present within the Roman era, the Romans themselves were not very found of beer. In comparison with wine, which they believed to be a "civilised" drink -- they considered beer to drink of the "rustic" and "common". To put it simply, wine was for the elite and "cultured" and beer was for the lowly "barbarous". Luckily for us, the Romans' distaste for beer did not stop it from spreading across the empire through travels, trade, and happenstance. 
+
 
 .ve-media wc:Outlines_from_the_figures_and_compositions_upon_the_Greek,_Roman,_and_Etruscan_vases_of_the_late_Sir_William_Hamilton;_with_engraved_borders_(1804)_(14593264659).jpg  left
 
