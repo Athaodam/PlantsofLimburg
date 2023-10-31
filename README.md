@@ -1,6 +1,6 @@
 .ve-header "A Brew-tiful History" wc:Primo_Beer_Ad.jpg "Ashley Thuthao Keng Dam, Ph.D." sticky
 
-.ve-media wc:Bierbrauer.jpg right caption="Static image"
+.ve-media wc:Bierbrauer.jpg right caption="A beer brewer"
 Did you know that after water and tea, beer is one of the most widely consumed drinks in the world?
 Unsurprisingly, it is also one of the world's oldest alcoholic drinks -- humans have been making and enjoying beer for generations and generations. Current findings suggest that the first beer brewers were the ==Sumerians=={Q35355} around 4,000 BCE. This was evident from excavations of ancient ==Mesopotamia=={Q11767}, which uncovered tablets depicting villagers drinking a mysterious beverage from a bowl with straws as well as odes to ==Ninkasi=={Q1088421}, their patron goddess of beer and brewing.
 Hilariously, even though 
