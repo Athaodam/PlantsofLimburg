@@ -1,4 +1,6 @@
-.ve-header "A Brew-tiful History" wc:Primo_Beer_Ad.jpg "Ashley Thuthao Keng Dam, Ph.D." sticky
+.ve-header "A Brew-tiful History" wc:Schloss_Sigmaringen_2022.jpg "Ashley Thuthao Keng Dam, Ph.D." sticky
+
+
 
 .ve-media wc:Bierbrauer.jpg right caption="A beer brewer"
 Did you know that after water and tea, beer is one of the most widely consumed drinks in the world?
